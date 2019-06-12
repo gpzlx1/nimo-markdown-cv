@@ -55,15 +55,12 @@ __USTC Team SwanGeese__ established in 2012, has participated in many HPC compet
 
 ## Honors & Awards
 
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
+The second prize of China Undergraduate Physics Tournament (USTC) `freshman, 2018` <br>
+The first prize of optimization track of Parallel Application Challenge 2018 `sophomore, 2018` <br>
+Silver Award for Outstanding Student Scholarship `freshman, 2017` <br>
+Gold Award for Outstanding Student Scholarship `sophomore, 2018` <br>
+华夏计算机科技英才班 `freshman, 2017` <br>
+华夏计算机科技英才班 `sophomore, 2018` <br>
 
 ## Person Dreams
 
