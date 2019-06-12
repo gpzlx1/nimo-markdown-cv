@@ -5,7 +5,7 @@ email:
     url: mailto:gpzlx1@mail.ustc.edu.cn
     text: gpzlx1@mail.ustc.edu.cn
 phone: 
-    url: callto:18726381411
+    url: 
     text: 18726381411
     
 ---
