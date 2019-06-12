@@ -35,10 +35,14 @@ Hoping to publish my first papar in the next two years
 ## Experience
 
 ### __President & CFO of USTC Linux User Group__  `2019.5 -`
+__USTC LUG__ is a technology-leading association which consists of the GNU/Linux enthusiasts in USTC, aiming to unite the GNU/Linux users in USTC, to build a platform for information sharing, share the value of free software and promote the using of free software in USTC Campus and Hefei City.
 
 
 ### __Member & Caption of USTC Team SwanGeese__ `2018.2 -`
-
+__USTC Team SwanGeese__ established in 2012, has participated in many HPC competitions at home and abroad, including SC12,SC14, SC16, SC17, ISC14, ISC15, ISC16, ASC12-ASC13, RDMA13-RDMA18, HPC-AI18,PAC13-PAC18, CPC17-CPC18 and so on, and almost took top honors or good places in everycompetition.
+- Become a member of the team since 2018.2, participate in PAC2018(Parallel Application Challenges)
+- Become the Caption of team in SCC19(Student Cluster Challenge Competition). Unfortunately, our team proposal was not accepted.
+- Probably compete in ISC20
 
 ## Honors & Awards
 
