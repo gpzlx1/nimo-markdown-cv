@@ -5,7 +5,7 @@ email:
     url: mailto:gpzlx1@mail.ustc.edu.cn
     text: gpzlx1@mail.ustc.edu.cn
 phone:
-    url: 187226381411
+    url: callto:18726381411
     text: +86-18726381411
 ---
 # Ping __Gong__
