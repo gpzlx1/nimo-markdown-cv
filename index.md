@@ -75,6 +75,7 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 ## Person Persuit
 
 - Travel around the world by participating in all kinds of computer competitions or conferences.
-<!-- ### Footer
 
-Last updated: June 2019 -->
+<!-- ### Footer
+Last updated: June 2019 
+-->
