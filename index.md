@@ -2,8 +2,8 @@
 layout: cv
 title: Wode "Nimo" Ni
 email: 
-    url: mailto:woden@cs.cmu.edu
-    text: woden@cs.cmu.edu
+    url: mailto:gpzlx1@mail.ustc.edu.cn
+    text: gpzlx1@mail.ustc.edu.cn
 homepage:
     url: http://cs.cmu.edu/~woden
     text: cs.cmu.edu/~woden
