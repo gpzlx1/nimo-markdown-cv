@@ -4,9 +4,9 @@ title: Wode "Nimo" Ni
 email: 
     url: mailto:gpzlx1@mail.ustc.edu.cn
     text: gpzlx1@mail.ustc.edu.cn
-homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+phone:
+    url: tel:18726381411
+    text: +86-18726381411
 ---
 # Wode __Ni__
 
