@@ -5,7 +5,8 @@ email:
     url: mailto:gpzlx1@mail.ustc.edu.cn
     text: gpzlx1@mail.ustc.edu.cn
 phone:
-    text: 18726381411
+    url: 187226381411
+    text: +86-18726381411
 ---
 # Ping __Gong__
 
@@ -51,14 +52,6 @@ __USTC Team SwanGeese__ established in 2012, has participated in many HPC compet
 - Probably compete in ISC20
 
 
-## Person Dreams
-
-- Controlled nuclear fusion
-- Space immigration
-- Strong AI
-- Communism
-
-
 ## Honors & Awards
 
 Phi Beta Kappa `Dickinson, 2018` <br>
@@ -70,6 +63,18 @@ Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
 
+
+## Person Dreams
+
+- Controlled nuclear fusion
+- Space immigration
+- Strong AI
+- Communism
+
+
+## Person Persuit
+
+- Travel around the world by participating in all kinds of computer competitions or conferences.
 <!-- ### Footer
 
 Last updated: June 2019 -->
