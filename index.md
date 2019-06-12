@@ -1,14 +1,14 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: gpzlx1
 email: 
     url: mailto:gpzlx1@mail.ustc.edu.cn
     text: gpzlx1@mail.ustc.edu.cn
 phone:
     url: tel:18726381411
-    text: +86-18726381411
+    text: 18726381411
 ---
-# Wode __Ni__
+# Ping __Gong__
 
 <!--
 include contact information from the front matter
@@ -21,9 +21,9 @@ Supported arguments:
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __University of Science and Technology of China__ `2017.9 -`
 ```
-Pittsburgh, PA
+Hefei, Anhui, China
 ```
 - Ph.D. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
