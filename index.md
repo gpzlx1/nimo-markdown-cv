@@ -55,12 +55,13 @@ __USTC Team SwanGeese__ established in 2012, has participated in many HPC compet
 
 ## Honors & Awards
 
-The second prize of China Undergraduate Physics Tournament (USTC) `freshman, 2018` <br>
 The first prize of optimization track of Parallel Application Challenge 2018 `sophomore, 2018` <br>
-Silver Award for Outstanding Student Scholarship `freshman, 2017` <br>
+The second prize of China Undergraduate Physics Tournament (USTC) `freshman, 2018` <br>
 Gold Award for Outstanding Student Scholarship `sophomore, 2018` <br>
-华夏计算机科技英才班 `freshman, 2017` <br>
-华夏计算机科技英才班 `sophomore, 2018` <br>
+Silver Award for Outstanding Student Scholarship `freshman, 2017` <br>
+华夏计算机科技英才班(cannot translate) `sophomore, 2018` <br>
+华夏计算机科技英才班(cannot translate)`freshman, 2017` <br>
+
 
 ## Person Dreams
 
