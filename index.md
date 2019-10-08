@@ -56,11 +56,11 @@ __USTC Team SwanGeese__ established in 2012, has participated in many HPC compet
 ### __Member of Hua Xia Talent Program in Computer Science and Technology__ `2017.9 - 2019.6`
 The Talent Program of the __University of Science and Technology of China__ is a program that focuses the high-quality resources of the university and the research institutes of the CAS on building high-level talens. It explores new models of innovative talents around national strategic needs and is committed to cultivating high-level talents in science and engineering for the next 15-20 years.
 
-__Hua Xia Talent Program in Computer Science and Technology__ is established for cultivating top talents in CS.
+- Hua Xia Talent Program in Computer Science and Technology is established for cultivating top talents in CS.
 
 ### __Member of Talent Program in Artificial Intelligence__ `2019.9 -`
 
-__Talent Program in Artificial Intelligence__ is established for cultivating top talents in AI.
+- Talent Program in Artificial Intelligence is established for cultivating top talents in AI.
 
 ## Honors & Awards
 
