@@ -27,13 +27,13 @@ Supported arguments:
 Hefei, Anhui, China
 ```
 - B.S. in Computer Science
-- GPA 3.91/4.3 (Top 5%)
-- Interesting in __Information Security__, __Artificial Intelligence__, __High Performance Computing__
+- GPA 3.89/4.3 (Top 5%)
+- Interesting in __Information Security__, __Artificial Intelligence__, __High Performance Computing__, __Distributed file system__
 
 
 ## Publications
 
-Hoping to publish my first papar in the next two years.
+Hoping to publish my first papar in the next two years.(Now target at Usenix atc 2020)
 
 
 
@@ -47,11 +47,20 @@ __USTC LUG__ is a technology-leading association which consists of the GNU/Linux
 
 ### __Member & Caption of USTC Team SwanGeese__ `2018.2 -`
 
-__USTC Team SwanGeese__ established in 2012, has participated in many HPC competitions at home and abroad, including SC12,SC14, SC16, SC17, ISC14, ISC15, ISC16, ASC12-ASC13, RDMA13-RDMA18, HPC-AI18,PAC13-PAC18, CPC17-CPC18 and so on, and almost took top honors or good places in everycompetition.
+__USTC Team SwanGeese__ established in 2012, has participated in many HPC competitions at home and abroad, including SC12,SC14, SC16, SC17, ISC14, ISC15, ISC16, ASC12-ASC13, RDMA13-RDMA18, HPC-AI18,PAC13-PAC18, CPC17-CPC18 and so on, and almost took top honors or good places in every competition.
 - Become a member of the team since 2018.2, participate in __PAC2018(Parallel Application Challenges)__
 - Become the caption of team in __SCC19(Student Cluster Challenge Competition)__. Unfortunately, our team proposal was not accepted.
 - Probably compete in ISC20
 
+
+### __Member of Hua Xia Talent Program in Computer Science and Technology__ `2017.9 - 2019.6`
+The Talent Program of the __University of Science and Technology of China__ is a program that focuses the high-quality resources of the university and the research institutes of the CAS on building high-level talens. It explores new models of innovative talents around national strategic needs and is committed to cultivating high-level talents in science and engineering for the next 15-20 years.
+
+__Hua Xia Talent Program in Computer Science and Technology__ is established for cultivating top talents in CS.
+
+### __Member of Talent Program in Artificial Intelligence__ `2019.9 -`
+
+__Talent Program in Artificial Intelligence__ is established for cultivating top talents in AI.
 
 ## Honors & Awards
 
@@ -59,9 +68,6 @@ The first prize of optimization track of Parallel Application Challenge 2018 `so
 The second prize of China Undergraduate Physics Tournament (USTC) `freshman, 2018` <br>
 Gold Award for Outstanding Student Scholarship `sophomore, 2018` <br>
 Silver Award for Outstanding Student Scholarship `freshman, 2017` <br>
-华夏计算机科技英才班(cannot translate) `sophomore, 2018` <br>
-华夏计算机科技英才班(cannot translate)`freshman, 2017` <br>
-
 
 ## Person Dreams
 
