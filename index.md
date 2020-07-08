@@ -28,7 +28,7 @@ Hefei, Anhui, China
 ```
 - B.S. in Computer Science
 - GPA 3.90/4.3 (Top 5%)
-- Interesting in __Information Security__, __Artificial Intelligence__, __High Performance Computing__, __Distributed file system__
+- Interesting in __Information Security__, __Artificial Intelligence__, __High Performance Computing__, __Distributed computing system__
 
 
 ## Publications
