@@ -27,13 +27,13 @@ Supported arguments:
 Hefei, Anhui, China
 ```
 - B.S. in Computer Science
-- GPA 3.89/4.3 (Top 5%)
+- GPA 3.90/4.3 (Top 5%)
 - Interesting in __Information Security__, __Artificial Intelligence__, __High Performance Computing__, __Distributed file system__
 
 
 ## Publications
 
-Hoping to publish my first papar in the next two years.(Now target at Usenix atc 2020)
+Hoping to publish my first papar in the next two years.
 
 
 
@@ -66,6 +66,7 @@ The Talent Program of the __University of Science and Technology of China__ is a
 
 The first prize of optimization track of Parallel Application Challenge 2018 `sophomore, 2018` <br>
 The second prize of China Undergraduate Physics Tournament (USTC) `freshman, 2018` <br>
+Gold Award for Outstanding Student Scholarship `sophomore, 2019` <br>
 Gold Award for Outstanding Student Scholarship `sophomore, 2018` <br>
 Silver Award for Outstanding Student Scholarship `freshman, 2017` <br>
 
