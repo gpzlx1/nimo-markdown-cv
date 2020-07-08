@@ -45,7 +45,7 @@ __USTC LUG__ is a technology-leading association which consists of the GNU/Linux
 - President & CFO of LUG, target to build a famous nationwide organization like Tsinghua tuna.
 
 
-### __Member & Caption of USTC Team SwanGeese__ `2018.2 - 2019.10`
+### __Member & Caption of USTC Team SwanGeese__ `2018.2 - 2018.10`
 
 __USTC Team SwanGeese__ established in 2012, has participated in many HPC competitions at home and abroad, including SC12,SC14, SC16, SC17, ISC14, ISC15, ISC16, ASC12-ASC13, RDMA13-RDMA18, HPC-AI18,PAC13-PAC18, CPC17-CPC18 and so on, and almost took top honors or good places in every competition.
 - Become a member of the team since 2018.2, participate in __PAC2018(Parallel Application Challenges)__, be awarded __the gold prize__ in optimization group.
