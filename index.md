@@ -31,7 +31,7 @@ Hefei, Anhui, China
 - Interesting in __Artificial Intelligence__, __High Performance Computing__, __Distributed Computing System__, __AI System__
 
 
-### USTC Advanced Data System Laboratory (USTC-ADSLab) `To Be`
+### __USTC Advanced Data System Laboratory (USTC-ADSLab)__ `To Be`
 
 ```
 Hefei, Anhui, China
