@@ -38,7 +38,7 @@ Hefei, Anhui, China
 ```
 
 - Master in Computer Science
-- Mentor : [`Cheng Li`](http://staff.ustc.edu.cn/~chengli7/)
+- Mentor [`Cheng Li`](http://staff.ustc.edu.cn/~chengli7/)
 
 ## Publications
 
