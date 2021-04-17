@@ -27,8 +27,8 @@ Supported arguments:
 Hefei, Anhui, China
 ```
 - B.S. in Computer Science
-- GPA 3.90/4.3 (Top 5%)
-- Interesting in __Information Security__, __Artificial Intelligence__, __High Performance Computing__, __Distributed computing system__
+- GPA 3.88/4.3 (Rank 11/187)
+- Interesting in __Artificial Intelligence__, __High Performance Computing__, __Distributed Computing System__, __AI System__.
 
 
 ## Publications
@@ -63,10 +63,12 @@ The Talent Program of the __University of Science and Technology of China__ is a
 - Talent Program in Artificial Intelligence is established for cultivating top talents in AI.
 
 ## Honors & Awards
-
+第一届腾讯开悟MOBA多智能体强化学习大赛冠军 `senior, 2020` <br>
+华为MindSpore网络模型编程大赛金奖 `senior, 2020` <br>
 The first prize of optimization track of Parallel Application Challenge 2018 `sophomore, 2018` <br>
 The second prize of China Undergraduate Physics Tournament (USTC) `freshman, 2018` <br>
-Gold Award for Outstanding Student Scholarship `sophomore, 2019` <br>
+Huawei Scholarship `senior, 2020` <br>
+Gold Award for Outstanding Student Scholarship `junior, 2019` <br>
 Gold Award for Outstanding Student Scholarship `sophomore, 2018` <br>
 Silver Award for Outstanding Student Scholarship `freshman, 2017` <br>
 
