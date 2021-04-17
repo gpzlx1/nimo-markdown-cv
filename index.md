@@ -30,8 +30,10 @@ Hefei, Anhui, China
 - GPA 3.88/4.3 (Rank 11/187)
 - Interesting in __Artificial Intelligence__, __High Performance Computing__, __Distributed Computing System__, __AI System__.
 
-### USTC Advanced Data System Laboratory (USTC-ADSLab) `2021.9 -` (To Be)
-
+### USTC Advanced Data System Laboratory (USTC-ADSLab) `To Be`
+```
+Hefei, Anhui, China
+```
 - `Master` in Computer Science
 - Mentor : [`Cheng Li`](http://staff.ustc.edu.cn/~chengli7/)
 
