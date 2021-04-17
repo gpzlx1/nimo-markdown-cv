@@ -26,7 +26,7 @@ Supported arguments:
 ```
 Hefei, Anhui, China
 ```
-- `B.S.` in Computer Science
+- B.S. in Computer Science
 - GPA 3.88/4.3 (Rank 11/187)
 - Interesting in __Artificial Intelligence__, __High Performance Computing__, __Distributed Computing System__, __AI System__.
 
@@ -34,7 +34,7 @@ Hefei, Anhui, China
 ```
 Hefei, Anhui, China
 ```
-- `Master` in Computer Science
+- Master in Computer Science
 - Mentor : [`Cheng Li`](http://staff.ustc.edu.cn/~chengli7/)
 
 ## Publications
@@ -79,9 +79,7 @@ Silver Award for Outstanding Student Scholarship `freshman, 2017` <br>
 ## Person Dreams
 
 - Controlled nuclear fusion
-- Space immigration
 - Strong AI
-- Communism
 
 
 ## Person Persuit
@@ -89,5 +87,5 @@ Silver Award for Outstanding Student Scholarship `freshman, 2017` <br>
 - Travel around the world by participating in all kinds of computer competitions or conferences.
 
 <!-- ### Footer
-Last updated: June 2019 
+Last updated: Apr 2021 
 -->
