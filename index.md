@@ -71,7 +71,7 @@ The Talent Program of the __University of Science and Technology of China__ is a
 - Talent Program in Artificial Intelligence is established for cultivating top talents in AI.
 
 ## Honors & Awards
-安徽省普通高等学校优秀毕业生
+安徽省普通高等学校优秀毕业生 `senior, 2021` <br>
 2020第一届腾讯开悟MOBA多智能体强化学习大赛冠军 `senior, 2020` <br>
 2020华为MindSpore网络模型编程大赛金奖 `senior, 2020` <br>
 2018全国并行应用挑战赛优化组金奖 `sophomore, 2018` <br>
