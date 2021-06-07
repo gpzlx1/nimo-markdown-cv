@@ -22,7 +22,7 @@ Supported arguments:
 
 ## Education
 
-### __University of Science and Technology of China__ `2017.9 -`
+### __University of Science and Technology of China (USTC)__ `2017.9 -`
 ```
 Hefei, Anhui, China
 ```
@@ -68,7 +68,7 @@ The Talent Program of the __University of Science and Technology of China__ is a
 
 ### __Member of Talent Program in Artificial Intelligence__ `2019.9 -`
 
-- Talent Program in Artificial Intelligence is established for cultivating top talents in AI.
+- Talent Program in Artificial Intelligence in USTC is established for cultivating top talents in AI.
 
 ## Honors & Awards
 安徽省普通高等学校优秀毕业生 `senior, 2021` <br>
