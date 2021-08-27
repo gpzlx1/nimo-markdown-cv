@@ -22,7 +22,7 @@ Supported arguments:
 
 ## Education
 
-### __University of Science and Technology of China (USTC)__ `2017.9 -`
+### __University of Science and Technology of China (USTC)__ `2017.9 - 2021.7`
 ```
 Hefei, Anhui, China
 ```
@@ -42,7 +42,7 @@ Hefei, Anhui, China
 
 ## Publications
 
-Hoping to publish my first papar in the next two years.
+- Youhui Bai, Cheng Li, Quan Zhou, Jun Yi, __Ping Gong__, Feng Yan, Ruichuan Chen, Yinlong Xu, __Gradient Compression Supercharged High-Performance Data Parallel DNN Training__, To appear in the proceedings of the 28th ACM Symposium on Operating Systems Principles (SOSP), 2021.
 
 
 
