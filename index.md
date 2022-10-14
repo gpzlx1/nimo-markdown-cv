@@ -27,11 +27,11 @@ Supported arguments:
 Hefei, Anhui, China
 ```
 - B.S. in Computer Science
-- GPA 3.88/4.3 (Rank 11/187)
+- GPA 3.90/4.3 (Rank 11/187)
 - Interesting in __Artificial Intelligence__, __High Performance Computing__, __Distributed Computing System__, __AI System__
 
 
-### __USTC Advanced Data System Laboratory (USTC-ADSLab)__ `To Be`
+### __USTC Advanced Data System Laboratory (USTC-ADSLab)__ `2021.9 - `
 
 ```
 Hefei, Anhui, China
