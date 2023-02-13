@@ -66,9 +66,11 @@ The Talent Program of the __University of Science and Technology of China__ is a
 
 - Hua Xia Talent Program in Computer Science and Technology is established for cultivating top talents in CS.
 
-### __Member of Talent Program in Artificial Intelligence__ `2019.9 -`
+### __Member of Talent Program in Artificial Intelligence__ `2019.9 - 2021.7`
 
 - Talent Program in Artificial Intelligence in USTC is established for cultivating top talents in AI.
+
+### __Master in Advanced Data Systems Laboratory (ADSL)__ `2021.9 - `
 
 ## Honors & Awards
 安徽省普通高等学校优秀毕业生 `senior, 2021` <br>
