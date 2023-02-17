@@ -73,10 +73,10 @@ The Talent Program of the __University of Science and Technology of China__ is a
 ### __Master in Advanced Data Systems Laboratory (ADSL)__ `2021.9 - `
 
 ## Honors & Awards
-安徽省普通高等学校优秀毕业生 `senior, 2021` <br>
-2020第一届腾讯开悟MOBA多智能体强化学习大赛冠军 `senior, 2020` <br>
-2020华为MindSpore网络模型编程大赛金奖 `senior, 2020` <br>
-2018全国并行应用挑战赛优化组金奖 `sophomore, 2018` <br>
+Outstanding Graduates from Anhui Province Ordinary Higher Education Institutions (安徽省普通高等学校优秀毕业生) `senior, 2021` <br>
+2020 Winner of the 1st Tencent Kaiwu MOBA Multi-Intelligent Body Reinforcement Learning Competition (2020第一届腾讯开悟MOBA多智能体强化学习大赛冠军) `senior, 2020` <br>
+Gold Award in the 2020 Huawei MindSpore Neural Network Model Programming Competition (2020华为MindSpore网络模型编程大赛金奖) `senior, 2020` <br>
+Gold Award in the Optimization Category of the Parallel Application Challenge 2018 (2018全国并行应用挑战赛优化组金奖) `sophomore, 2018` <br>
 Huawei Scholarship `senior, 2020` <br>
 Gold Award for Outstanding Student Scholarship `junior, 2019` <br>
 Gold Award for Outstanding Student Scholarship `sophomore, 2018` <br>
