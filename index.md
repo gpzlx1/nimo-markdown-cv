@@ -42,7 +42,7 @@ Hefei, Anhui, China
 
 ## Publications
 
-- Youhui Bai, Cheng Li, Quan Zhou, Jun Yi, __Ping Gong__, Feng Yan, Ruichuan Chen, Yinlong Xu, __Gradient Compression Supercharged High-Performance Data Parallel DNN Training__, To appear in the proceedings of the 28th ACM Symposium on Operating Systems Principles (SOSP), 2021.
+- Youhui Bai, Cheng Li, Quan Zhou, Jun Yi, __Ping Gong__, Feng Yan, Ruichuan Chen, Yinlong Xu, __Gradient Compression Supercharged High-Performance Data Parallel DNN Training__, [the 28th ACM Symposium on Operating Systems Principles (SOSP), 2021](https://dl.acm.org/doi/10.1145/3477132.3483553).
 
 
 
