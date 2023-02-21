@@ -2,8 +2,8 @@
 layout: cv
 title: gpzlx1
 email: 
-    url: mailto:gpzlx1@mail.ustc.edu.cn
-    text: gpzlx1@mail.ustc.edu.cn
+    url: mailto:pinggong@mail.ustc.edu.cn
+    text: pinggong@mail.ustc.edu.cn
 phone: 
     url: callto:+86-18726381411
     text: +86-18726381411
